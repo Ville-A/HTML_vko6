@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 5px;
+    margin-bottom: 20px;
+}
+
+td {
+    padding: 8px 12px 8px 12px; 
+    text-align: center;
+    border-radius: 6px; 
+    border: 1px solid black;
+}
